@@ -1,6 +1,6 @@
 # Hardware-Drives
 
--Here you can find drivers of Hardware Components Like:
+-Here you can find drivers of Hardware Abstraction Layer of Hardware Components Like:
                                                            1-LCD
                                                            2-Dc Motor 
                                                            3-Servo Motor
