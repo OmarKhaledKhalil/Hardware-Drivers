@@ -1,9 +1,7 @@
 #include "StdTypes.h"
 #include "Utils.h"
-#include "MemMap.h"
 #include "DIO_Interface.h"
 #include "SevenSegment_Interface.h"
-#include "DIO_Private.h"
 
 #include <util/delay.h>
 
